@@ -1,0 +1,193 @@
+<object-stream>
+<org.drools.core.audit.WorkingMemoryLog>
+  <version>6.1</version>
+  <events>
+    <org.drools.core.audit.event.RuleFlowLogEvent>
+      <type>8</type>
+      <processId>org.formation.tp2</processId>
+      <processName>TP2</processName>
+      <processInstanceId class="long">1</processInstanceId>
+    </org.drools.core.audit.event.RuleFlowLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>24</type>
+      <processId>org.formation.tp2</processId>
+      <processName>TP2</processName>
+      <processInstanceId class="long">1</processInstanceId>
+      <nodeId>_1</nodeId>
+      <nodeName>StartProcess</nodeName>
+      <nodeInstanceId>0</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>26</type>
+      <processId>org.formation.tp2</processId>
+      <processName>TP2</processName>
+      <processInstanceId class="long">1</processInstanceId>
+      <nodeId>_1</nodeId>
+      <nodeName>StartProcess</nodeName>
+      <nodeInstanceId>0</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>24</type>
+      <processId>org.formation.tp2</processId>
+      <processName>TP2</processName>
+      <processInstanceId class="long">1</processInstanceId>
+      <nodeId>_2</nodeId>
+      <nodeName>Hello</nodeName>
+      <nodeInstanceId>1</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>26</type>
+      <processId>org.formation.tp2</processId>
+      <processName>TP2</processName>
+      <processInstanceId class="long">1</processInstanceId>
+      <nodeId>_2</nodeId>
+      <nodeName>Hello</nodeName>
+      <nodeInstanceId>1</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>24</type>
+      <processId>org.formation.tp2</processId>
+      <processName>TP2</processName>
+      <processInstanceId class="long">1</processInstanceId>
+      <nodeId>IntermediateCatchEvent_2</nodeId>
+      <nodeName>Signal</nodeName>
+      <nodeInstanceId>2</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>25</type>
+      <processId>org.formation.tp2</processId>
+      <processName>TP2</processName>
+      <processInstanceId class="long">1</processInstanceId>
+      <nodeId>IntermediateCatchEvent_2</nodeId>
+      <nodeName>Signal</nodeName>
+      <nodeInstanceId>2</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>27</type>
+      <processId>org.formation.tp2</processId>
+      <processName>TP2</processName>
+      <processInstanceId class="long">1</processInstanceId>
+      <nodeId>_2</nodeId>
+      <nodeName>Hello</nodeName>
+      <nodeInstanceId>1</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>25</type>
+      <processId>org.formation.tp2</processId>
+      <processName>TP2</processName>
+      <processInstanceId class="long">1</processInstanceId>
+      <nodeId>_2</nodeId>
+      <nodeName>Hello</nodeName>
+      <nodeInstanceId>1</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>27</type>
+      <processId>org.formation.tp2</processId>
+      <processName>TP2</processName>
+      <processInstanceId class="long">1</processInstanceId>
+      <nodeId>_1</nodeId>
+      <nodeName>StartProcess</nodeName>
+      <nodeInstanceId>0</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>25</type>
+      <processId>org.formation.tp2</processId>
+      <processName>TP2</processName>
+      <processInstanceId class="long">1</processInstanceId>
+      <nodeId>_1</nodeId>
+      <nodeName>StartProcess</nodeName>
+      <nodeInstanceId>0</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowLogEvent>
+      <type>9</type>
+      <processId>org.formation.tp2</processId>
+      <processName>TP2</processName>
+      <processInstanceId class="long">1</processInstanceId>
+    </org.drools.core.audit.event.RuleFlowLogEvent>
+    <org.drools.core.audit.event.RuleFlowVariableLogEvent>
+      <type>32</type>
+      <processId>org.formation.tp2</processId>
+      <processName>TP2</processName>
+      <processInstanceId class="long">1</processInstanceId>
+      <variableId>signalData</variableId>
+      <variableInstanceId>signalData</variableInstanceId>
+      <objectToString>None</objectToString>
+    </org.drools.core.audit.event.RuleFlowVariableLogEvent>
+    <org.drools.core.audit.event.RuleFlowVariableLogEvent>
+      <type>33</type>
+      <processId>org.formation.tp2</processId>
+      <processName>TP2</processName>
+      <processInstanceId class="long">1</processInstanceId>
+      <variableId>signalData</variableId>
+      <variableInstanceId>signalData</variableInstanceId>
+      <objectToString>None</objectToString>
+    </org.drools.core.audit.event.RuleFlowVariableLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>26</type>
+      <processId>org.formation.tp2</processId>
+      <processName>TP2</processName>
+      <processInstanceId class="long">1</processInstanceId>
+      <nodeId>IntermediateCatchEvent_2</nodeId>
+      <nodeName>Signal</nodeName>
+      <nodeInstanceId>2</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>24</type>
+      <processId>org.formation.tp2</processId>
+      <processName>TP2</processName>
+      <processInstanceId class="long">1</processInstanceId>
+      <nodeId>_3</nodeId>
+      <nodeName>EndProcess</nodeName>
+      <nodeInstanceId>3</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>26</type>
+      <processId>org.formation.tp2</processId>
+      <processName>TP2</processName>
+      <processInstanceId class="long">1</processInstanceId>
+      <nodeId>_3</nodeId>
+      <nodeName>EndProcess</nodeName>
+      <nodeInstanceId>3</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowLogEvent>
+      <type>10</type>
+      <processId>org.formation.tp2</processId>
+      <processName>TP2</processName>
+      <processInstanceId class="long">1</processInstanceId>
+    </org.drools.core.audit.event.RuleFlowLogEvent>
+    <org.drools.core.audit.event.RuleFlowLogEvent>
+      <type>11</type>
+      <processId>org.formation.tp2</processId>
+      <processName>TP2</processName>
+      <processInstanceId class="long">1</processInstanceId>
+    </org.drools.core.audit.event.RuleFlowLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>27</type>
+      <processId>org.formation.tp2</processId>
+      <processName>TP2</processName>
+      <processInstanceId class="long">1</processInstanceId>
+      <nodeId>_3</nodeId>
+      <nodeName>EndProcess</nodeName>
+      <nodeInstanceId>3</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>25</type>
+      <processId>org.formation.tp2</processId>
+      <processName>TP2</processName>
+      <processInstanceId class="long">1</processInstanceId>
+      <nodeId>_3</nodeId>
+      <nodeName>EndProcess</nodeName>
+      <nodeInstanceId>3</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>27</type>
+      <processId>org.formation.tp2</processId>
+      <processName>TP2</processName>
+      <processInstanceId class="long">1</processInstanceId>
+      <nodeId>IntermediateCatchEvent_2</nodeId>
+      <nodeName>Signal</nodeName>
+      <nodeInstanceId>2</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+  </events>
+</org.drools.core.audit.WorkingMemoryLog>
+</object-stream>
