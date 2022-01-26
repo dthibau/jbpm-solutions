@@ -48,6 +48,11 @@
 			<artifactId>jbpm-persistence-jpa</artifactId>
 			<version>${runtime.version}</version>
 		</dependency>
+		<dependency>
+			<groupId>org.jbpm</groupId>
+			<artifactId>jbpm-human-task-audit</artifactId>
+			<version>${runtime.version}</version>
+		</dependency>
 
 	</dependencies>
 </project>
