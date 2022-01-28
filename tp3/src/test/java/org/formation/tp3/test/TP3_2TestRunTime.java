@@ -27,8 +27,9 @@ public class TP3_2TestRunTime {
 			KieRuntimeLogger logger = KieServices.Factory.get().getLoggers().newThreadedFileLogger(ksession, "tp3_2", 1000);
 			// start a new process instance
 			ksession.startProcess("org.formation.tp3.Main");
-			logger.close();
 			Thread.sleep(10000);
+			logger.close();
+
 		} catch (Throwable t) {
 			t.printStackTrace();
 		}
