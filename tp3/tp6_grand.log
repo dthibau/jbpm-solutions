@@ -174,6 +174,78 @@
       <processId>org.formation.Subprocess</processId>
       <processName>Subprocess</processName>
       <processInstanceId class="long">2</processInstanceId>
+      <nodeId>_17</nodeId>
+      <nodeName>Trace</nodeName>
+      <nodeInstanceId>2</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>26</type>
+      <processId>org.formation.Subprocess</processId>
+      <processName>Subprocess</processName>
+      <processInstanceId class="long">2</processInstanceId>
+      <nodeId>_17</nodeId>
+      <nodeName>Trace</nodeName>
+      <nodeInstanceId>2</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>24</type>
+      <processId>org.formation.Subprocess</processId>
+      <processName>Subprocess</processName>
+      <processInstanceId class="long">2</processInstanceId>
+      <nodeId>_15</nodeId>
+      <nodeName>DonnerNote</nodeName>
+      <nodeInstanceId>4</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>25</type>
+      <processId>org.formation.Subprocess</processId>
+      <processName>Subprocess</processName>
+      <processInstanceId class="long">2</processInstanceId>
+      <nodeId>_15</nodeId>
+      <nodeName>DonnerNote</nodeName>
+      <nodeInstanceId>4</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>27</type>
+      <processId>org.formation.Subprocess</processId>
+      <processName>Subprocess</processName>
+      <processInstanceId class="long">2</processInstanceId>
+      <nodeId>_17</nodeId>
+      <nodeName>Trace</nodeName>
+      <nodeInstanceId>2</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>25</type>
+      <processId>org.formation.Subprocess</processId>
+      <processName>Subprocess</processName>
+      <processInstanceId class="long">2</processInstanceId>
+      <nodeId>_17</nodeId>
+      <nodeName>Trace</nodeName>
+      <nodeInstanceId>2</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>27</type>
+      <processId>org.formation.Subprocess</processId>
+      <processName>Subprocess</processName>
+      <processInstanceId class="long">2</processInstanceId>
+      <nodeId>_4</nodeId>
+      <nodeName>Gateway</nodeName>
+      <nodeInstanceId>1</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>26</type>
+      <processId>org.formation.Subprocess</processId>
+      <processName>Subprocess</processName>
+      <processInstanceId class="long">2</processInstanceId>
+      <nodeId>_4</nodeId>
+      <nodeName>Gateway</nodeName>
+      <nodeInstanceId>1</nodeInstanceId>
+    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
+    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
+      <type>24</type>
+      <processId>org.formation.Subprocess</processId>
+      <processName>Subprocess</processName>
+      <processInstanceId class="long">2</processInstanceId>
       <nodeId>_18</nodeId>
       <nodeName>Calcul incidents</nodeName>
       <nodeInstanceId>3</nodeInstanceId>
@@ -212,7 +284,7 @@
       <processInstanceId class="long">2</processInstanceId>
       <nodeId>_7</nodeId>
       <nodeName>Gateway</nodeName>
-      <nodeInstanceId>4</nodeInstanceId>
+      <nodeInstanceId>5</nodeInstanceId>
     </org.drools.core.audit.event.RuleFlowNodeLogEvent>
     <org.drools.core.audit.event.RuleFlowNodeLogEvent>
       <type>25</type>
@@ -221,7 +293,7 @@
       <processInstanceId class="long">2</processInstanceId>
       <nodeId>_7</nodeId>
       <nodeName>Gateway</nodeName>
-      <nodeInstanceId>4</nodeInstanceId>
+      <nodeInstanceId>5</nodeInstanceId>
     </org.drools.core.audit.event.RuleFlowNodeLogEvent>
     <org.drools.core.audit.event.RuleFlowNodeLogEvent>
       <type>27</type>
@@ -240,78 +312,6 @@
       <nodeId>_18</nodeId>
       <nodeName>Calcul incidents</nodeName>
       <nodeInstanceId>3</nodeInstanceId>
-    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
-    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
-      <type>27</type>
-      <processId>org.formation.Subprocess</processId>
-      <processName>Subprocess</processName>
-      <processInstanceId class="long">2</processInstanceId>
-      <nodeId>_4</nodeId>
-      <nodeName>Gateway</nodeName>
-      <nodeInstanceId>1</nodeInstanceId>
-    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
-    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
-      <type>26</type>
-      <processId>org.formation.Subprocess</processId>
-      <processName>Subprocess</processName>
-      <processInstanceId class="long">2</processInstanceId>
-      <nodeId>_4</nodeId>
-      <nodeName>Gateway</nodeName>
-      <nodeInstanceId>1</nodeInstanceId>
-    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
-    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
-      <type>24</type>
-      <processId>org.formation.Subprocess</processId>
-      <processName>Subprocess</processName>
-      <processInstanceId class="long">2</processInstanceId>
-      <nodeId>_17</nodeId>
-      <nodeName>Trace</nodeName>
-      <nodeInstanceId>2</nodeInstanceId>
-    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
-    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
-      <type>26</type>
-      <processId>org.formation.Subprocess</processId>
-      <processName>Subprocess</processName>
-      <processInstanceId class="long">2</processInstanceId>
-      <nodeId>_17</nodeId>
-      <nodeName>Trace</nodeName>
-      <nodeInstanceId>2</nodeInstanceId>
-    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
-    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
-      <type>24</type>
-      <processId>org.formation.Subprocess</processId>
-      <processName>Subprocess</processName>
-      <processInstanceId class="long">2</processInstanceId>
-      <nodeId>_15</nodeId>
-      <nodeName>DonnerNote</nodeName>
-      <nodeInstanceId>5</nodeInstanceId>
-    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
-    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
-      <type>25</type>
-      <processId>org.formation.Subprocess</processId>
-      <processName>Subprocess</processName>
-      <processInstanceId class="long">2</processInstanceId>
-      <nodeId>_15</nodeId>
-      <nodeName>DonnerNote</nodeName>
-      <nodeInstanceId>5</nodeInstanceId>
-    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
-    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
-      <type>27</type>
-      <processId>org.formation.Subprocess</processId>
-      <processName>Subprocess</processName>
-      <processInstanceId class="long">2</processInstanceId>
-      <nodeId>_17</nodeId>
-      <nodeName>Trace</nodeName>
-      <nodeInstanceId>2</nodeInstanceId>
-    </org.drools.core.audit.event.RuleFlowNodeLogEvent>
-    <org.drools.core.audit.event.RuleFlowNodeLogEvent>
-      <type>25</type>
-      <processId>org.formation.Subprocess</processId>
-      <processName>Subprocess</processName>
-      <processInstanceId class="long">2</processInstanceId>
-      <nodeId>_17</nodeId>
-      <nodeName>Trace</nodeName>
-      <nodeInstanceId>2</nodeInstanceId>
     </org.drools.core.audit.event.RuleFlowNodeLogEvent>
     <org.drools.core.audit.event.RuleFlowNodeLogEvent>
       <type>27</type>
@@ -425,7 +425,7 @@
       <processInstanceId class="long">2</processInstanceId>
       <nodeId>_15</nodeId>
       <nodeName>DonnerNote</nodeName>
-      <nodeInstanceId>5</nodeInstanceId>
+      <nodeInstanceId>4</nodeInstanceId>
     </org.drools.core.audit.event.RuleFlowNodeLogEvent>
     <org.drools.core.audit.event.RuleFlowNodeLogEvent>
       <type>24</type>
@@ -434,7 +434,7 @@
       <processInstanceId class="long">2</processInstanceId>
       <nodeId>_7</nodeId>
       <nodeName>Gateway</nodeName>
-      <nodeInstanceId>4</nodeInstanceId>
+      <nodeInstanceId>5</nodeInstanceId>
     </org.drools.core.audit.event.RuleFlowNodeLogEvent>
     <org.drools.core.audit.event.RuleFlowNodeLogEvent>
       <type>26</type>
@@ -443,7 +443,7 @@
       <processInstanceId class="long">2</processInstanceId>
       <nodeId>_7</nodeId>
       <nodeName>Gateway</nodeName>
-      <nodeInstanceId>4</nodeInstanceId>
+      <nodeInstanceId>5</nodeInstanceId>
     </org.drools.core.audit.event.RuleFlowNodeLogEvent>
     <org.drools.core.audit.event.RuleFlowNodeLogEvent>
       <type>24</type>
@@ -644,7 +644,7 @@
       <processInstanceId class="long">2</processInstanceId>
       <nodeId>_7</nodeId>
       <nodeName>Gateway</nodeName>
-      <nodeInstanceId>4</nodeInstanceId>
+      <nodeInstanceId>5</nodeInstanceId>
     </org.drools.core.audit.event.RuleFlowNodeLogEvent>
     <org.drools.core.audit.event.RuleFlowNodeLogEvent>
       <type>25</type>
@@ -653,7 +653,7 @@
       <processInstanceId class="long">2</processInstanceId>
       <nodeId>_7</nodeId>
       <nodeName>Gateway</nodeName>
-      <nodeInstanceId>4</nodeInstanceId>
+      <nodeInstanceId>5</nodeInstanceId>
     </org.drools.core.audit.event.RuleFlowNodeLogEvent>
     <org.drools.core.audit.event.RuleFlowNodeLogEvent>
       <type>27</type>
@@ -662,7 +662,7 @@
       <processInstanceId class="long">2</processInstanceId>
       <nodeId>_15</nodeId>
       <nodeName>DonnerNote</nodeName>
-      <nodeInstanceId>5</nodeInstanceId>
+      <nodeInstanceId>4</nodeInstanceId>
     </org.drools.core.audit.event.RuleFlowNodeLogEvent>
   </events>
 </org.drools.core.audit.WorkingMemoryLog>
@@ -867,6 +867,11 @@
     </org.drools.core.audit.event.RuleFlowNodeLogEvent>
   </events>
 </org.drools.core.audit.WorkingMemoryLog>
+<org.drools.core.audit.WorkingMemoryLog>
+  <version>6.1</version>
+  <events/>
+</org.drools.core.audit.WorkingMemoryLog>
+</object-stream>
 <org.drools.core.audit.WorkingMemoryLog>
   <version>6.1</version>
   <events/>
