@@ -60,10 +60,12 @@ public class TP5_Test extends JbpmJUnitBaseTestCase {
 
 		_printProcesses(ksession);
 
-		// Poursuivre la demande de PetitCredit via le signal approprié
+		// Poursuivre la demande de Credit via le signal approprié
 		ksession.signalEvent("DonneAvis", 5);
 
 		_printProcesses(ksession);
+		
+		assertProcessInstanceCompleted(procInst.getId());
 
 		// Fermeture session + logger
 		manager.disposeRuntimeEngine(engine);
@@ -81,14 +83,12 @@ public class TP5_Test extends JbpmJUnitBaseTestCase {
 
 	private void _printProcesses(KieSession ksession) {
 		logger.info("Print process from database ");
-		for (ProcessInstanceLog p : auditService
-				.findProcessInstances()) {
+		for (ProcessInstanceLog p : auditService.findProcessInstances()) {
 			List<String> nodes = getActiveNodesInProcessInstance(ksession, p.getProcessInstanceId());
 
 			for ( String node : nodes) {
-				 logger.info("Process instance avec l'id ",
-							p.getProcessInstanceId() , " est dans le noeud "
-							, node);
+				 logger.info("Process instance avec l'id " + 
+							p.getProcessInstanceId() + " est dans le noeud " + node);
 			}
 		}
 	}

@@ -11,7 +11,7 @@
 
   <logger name="org.jbpm" level="info"/>
   
-  <root level="error">
+  <root level="info">
     <appender-ref ref="consoleAppender" />
   </root>
 
